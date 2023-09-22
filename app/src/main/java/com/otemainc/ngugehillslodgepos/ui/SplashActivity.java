@@ -1,14 +1,14 @@
 package com.otemainc.ngugehillslodgepos.ui;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Context;
-import android.content.Intent;
 import android.os.Bundle;
 import android.os.SystemClock;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.otemainc.ngugehillslodgepos.R;
 import com.otemainc.ngugehillslodgepos.utils.NgugeHillsLodge;
+import com.otemainc.ngugehillslodgepos.utils.UserSession;
 
 public class SplashActivity extends AppCompatActivity {
 
@@ -20,8 +20,6 @@ public class SplashActivity extends AppCompatActivity {
     }
     private void load(Context context) {
         SystemClock.sleep(5000);
-        Intent main = new Intent(context, MainActivity.class);
-        startActivity(main);
-        finish();
+        new UserSession(context).checkLogin(MainActivity.class);
     }
 }
