@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Nguge Hills Lodge POS</string>
+    <string name="first_slide">First slide</string>
+    <string name="second_slide">Second slide</string>
+    <string name="random_text">Random text</string>
+    <string name="get_started">Get started</string>
+    <string name="third_slide">Third slide</string>
+    <string name="fourth_slide">Fourth slide</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_text">Welcome Text</string>
+    <string name="welcome_decsr">Welcome Description</string>
+    <string name="payment_title">Payment text</string>
+    <string name="payment_descr">Payment description</string>
+    <string name="food_title">Food title</string>
+    <string name="food_text">Food description</string>
+    <string name="room_booking_text">Room booking text</string>
+    <string name="room_booking_descr">Room booking description</string>
 </resources>

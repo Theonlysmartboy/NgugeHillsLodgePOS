@@ -1,0 +1,17 @@
+<!--
+  ~ Copyright (c) 2022. This source code is property of Otema Technologies(Copyright holder) and is licenced to
+  ~ Swiva group for use on use as-is basis, any changes to the source code or the copyright
+  ~ can only be done by written permission from Otema Technologies.
+  ~ The third-party libraries and packages used in the source code are copyrights
+  ~ of each of their respective owners
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="40dp"
+        android:height="40dp"
+        android:viewportWidth="24.0"
+        android:viewportHeight="24.0">
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M10,6L8.59,7.41 13.17,12l-4.58,4.59L10,18l6,-6z"/>
+</vector>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="examples">
+        <item>Amazing Activities</item>
+        <item>Ample space</item>
+        <item>Low Prices</item>
+        <item>Professional Staff</item>
+        <item>Clean Rooms</item>
+        <item>Amazing Dishes</item>
+    </string-array>
+</resources>
