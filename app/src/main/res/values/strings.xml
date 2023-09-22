@@ -42,4 +42,9 @@
     <string name="hero_banner">Hero banner</string>
     <string name="login_instead">Login instead</string>
     <string name="request_password_reset">Request Password Reset</string>
+    <string name="no_connection">Kindly connect to a WIFI network or enable Mobile Data</string>
+    <string name="no_internet">No Internet connection</string>
+    <string name="no_connection_message">Cannot connect to Swiva servers</string>
+    <string name="cancel">Cancel</string>
+    <string name="connect_now">Connect Now</string>
 </resources>
