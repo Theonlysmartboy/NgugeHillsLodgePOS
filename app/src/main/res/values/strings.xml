@@ -17,4 +17,5 @@
     <string name="food_text">Food description</string>
     <string name="room_booking_text">Room booking text</string>
     <string name="room_booking_descr">Room booking description</string>
+    <string name="designer">Created By Odhiambo Joseph</string>
 </resources>
